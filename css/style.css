@@ -1,10 +1,10 @@
 body {
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Crimson Text', serif;
   }
   @media (min-width: 768px) {
     html {
-      font-size: 16px;
+      font-size: 18px;
     }
   }
   
