@@ -32,6 +32,11 @@ html {
     }
   }
   
+  .titled {
+    font-weight: bold;
+    line-height: 1rem;
+  }
+
   .jumbotron p:last-child {
     margin-bottom: 0;
   }
