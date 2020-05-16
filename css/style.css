@@ -1,10 +1,10 @@
 body {
-    font-size: 14px;
+    font-size: 12px;
     font-family: 'Noto Sans KR', 'Helvetica', 'Arial', sans-serif;
   }
   @media (min-width: 768px) {
     html {
-      font-size: 18px;
+      font-size: 16px;
     }
   }
   
@@ -17,9 +17,11 @@ body {
   }
 
   .titled {
-    font-weight: 700;
+    font-weight: 900;
     line-height: 2rem;
   }
+  
+  p {font-weight: 100; font-size: 1rem;}
   
   footer {
     padding-top: 3rem;
