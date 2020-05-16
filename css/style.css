@@ -18,11 +18,11 @@ body {
 
   .titled {
     font-weight: 900;
-    line-height: 2rem;
+    line-height: 2.2rem;
   }
   
-  p {font-weight: 100; font-size: 1rem;}
-  
+  p {font-weight: 100; font-size: 0.8rem;}
+
   footer {
     padding-top: 3rem;
     padding-bottom: 3rem;
