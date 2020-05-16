@@ -1,4 +1,4 @@
-html {
+body {
     font-size: 14px;
     font-family: 'Crimson Text', serif;
   }
@@ -18,7 +18,7 @@ html {
 
   .titled {
     font-weight: 700;
-    line-height: 1.8rem;
+    line-height: 2rem;
   }
   
   footer {
