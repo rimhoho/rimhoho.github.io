@@ -1,11 +1,5 @@
 body {
-    font-size: 12px;
     font-family: 'Noto Sans KR', 'Helvetica', 'Arial', sans-serif;
-  }
-  @media (min-width: 768px) {
-    html {
-      font-size: 16px;
-    }
   }
   
   .container {
