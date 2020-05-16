@@ -1,5 +1,6 @@
 html {
     font-size: 14px;
+    font-family: 'Enriqueta', serif;
   }
   @media (min-width: 768px) {
     html {
@@ -33,8 +34,8 @@ html {
   }
   
   .titled {
-    font-weight: bold;
-    line-height: 1rem;
+    font-weight: 700;
+    line-height: 1.8rem;
   }
 
   .jumbotron p:last-child {
