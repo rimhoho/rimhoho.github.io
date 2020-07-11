@@ -1,6 +1,5 @@
 body {
     font-family: 'Noto Sans KR', 'Helvetica', 'Arial', sans-serif;
-    font-size: 12px;
   }
   
   .container {
@@ -14,7 +13,7 @@ body {
   }
 
   .titled {
-    font-weight: 900;
+    font-weight: 700;
   }
   
   p .big {font-weight: 100; font-size: 0.8rem;}
