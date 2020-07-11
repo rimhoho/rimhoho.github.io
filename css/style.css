@@ -8,6 +8,8 @@ body {
   
   .navi-text {font-weight: 700; font-size: 0.9rem;}
 
+  .small {font-size: 0.8rem;}
+
   .pricing-header {
     max-width: 700px;
   }
